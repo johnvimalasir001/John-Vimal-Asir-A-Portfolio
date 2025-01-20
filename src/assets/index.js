@@ -28,7 +28,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import iot from "./company/iot.png";
-import full_stack from "./company/full_stack.png";
+import full_stack from "./tech/full_stack.png";
 import coding from "./company/coding.png";
 import planning from "./company/planning.png";
 
